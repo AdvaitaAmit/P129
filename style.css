@@ -1,0 +1,47 @@
+h3{
+    font-family: 'Unbounded', cursive;
+    background-color: #B994AC;
+    color: white;
+    font-size: 25px;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-radius: 15px;
+}
+
+h3:hover {
+    background-color: #a6608e ;
+
+  }
+
+
+.note{
+    font-family: 'Poppins', sans-serif;
+    font-style: italic;
+    font-size: 15px;
+}
+
+body{
+    background-size: cover;
+    
+}
+
+#button-song{
+    background-color: #6E607D;
+    border: none;
+    border-radius: 5px;
+    height: 40px;
+    width: 200px;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+}
+
+canvas{
+    border: 15px solid white;
+    border-radius: 20px;
+}
+
+
